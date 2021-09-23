@@ -16,14 +16,6 @@
 
 <br>
 
-## Instructions to run
-
-- directions to install
-
-
-
-- directions to use cli script
-
 
 
 
